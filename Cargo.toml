@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["ch01", "ch02", "ch03", "demo", "get_dependencies"]
